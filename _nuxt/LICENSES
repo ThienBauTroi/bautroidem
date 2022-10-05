@@ -1,11 +1,4 @@
 /*!
- * vue-infinite-slide-bar v1.1.1
- * (c) 2018-present biig_pongsatorn <biig_pongsatorn@hotmail.com>
- * Released under the MIT License.
- */
-
-
-/*!
   * vue-router v3.5.3
   * (c) 2021 Evan You
   * @license MIT
@@ -21,6 +14,20 @@
  * vuex v3.6.2
  * (c) 2021 Evan You
  * @license MIT
+ */
+
+
+/*!
+ * vue-infinite-slide-bar v1.1.1
+ * (c) 2018-present biig_pongsatorn <biig_pongsatorn@hotmail.com>
+ * Released under the MIT License.
+ */
+
+
+/*!
+ * vue-infinite-slide-bar v1.1.1
+ * (c) 2018-present biig_pongsatorn <biig_pongsatorn@hotmail.com>
+ * Released under the MIT License.
  */
 
 
@@ -115,10 +122,3 @@
  */
 
 //! moment.js
-
-
-/*!
- * vue-infinite-slide-bar v1.1.1
- * (c) 2018-present biig_pongsatorn <biig_pongsatorn@hotmail.com>
- * Released under the MIT License.
- */
