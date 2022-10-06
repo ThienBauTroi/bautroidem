@@ -1,4 +1,30 @@
 /*!
+  * vue-router v3.5.3
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.14
+ * (c) 2014-2021 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * vuex v3.6.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
+
+
+/*!
+ * vue-infinite-slide-bar v1.1.1
+ * (c) 2018-present biig_pongsatorn <biig_pongsatorn@hotmail.com>
+ * Released under the MIT License.
+ */
+
+
+/*!
 	 * Sizzle CSS Selector Engine v2.3.3
 	 * https://sizzlejs.com/
 	 *
@@ -89,39 +115,6 @@
  */
 
 //! moment.js
-
-
-/*!
-  * vue-router v3.5.3
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.6.14
- * (c) 2014-2021 Evan You
- * Released under the MIT License.
- */
-
-/*!
- * vuex v3.6.2
- * (c) 2021 Evan You
- * @license MIT
- */
-
-
-/*!
- * vue-infinite-slide-bar v1.1.1
- * (c) 2018-present biig_pongsatorn <biig_pongsatorn@hotmail.com>
- * Released under the MIT License.
- */
-
-
-/*!
- * vue-infinite-slide-bar v1.1.1
- * (c) 2018-present biig_pongsatorn <biig_pongsatorn@hotmail.com>
- * Released under the MIT License.
- */
 
 
 /*!
