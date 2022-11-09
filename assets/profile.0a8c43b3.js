@@ -1,0 +1,1 @@
+import{L as t}from"./main.f94c1d36.js";import{_ as e,b as s,o as a,U as n,f as r,d as c}from"./index.fa74b716.js";import"./Logo.91462b09.js";const p={components:{Layout:t}},_=c("h1",null,"Profile",-1);function l(f,i,u,m,d,h){const o=s("layout");return a(),n(o,null,{default:r(()=>[_]),_:1})}const B=e(p,[["render",l]]);export{B as default};
